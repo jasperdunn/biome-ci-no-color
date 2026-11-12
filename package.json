@@ -1,0 +1,10 @@
+{
+  "name": "biome-ci-no-color",
+  "private": true,
+  "scripts": {
+    "repro": "sh repro.sh"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.5"
+  }
+}
